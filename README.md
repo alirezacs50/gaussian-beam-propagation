@@ -63,4 +63,4 @@ Derived quantities:
     pip install -r requirements.txt
     python src/BEAM.py
 
-The script saves `Figures.png` and `figures/beam_profiles.png`.
+The script saves `figures/beam_width.png` and `figures/beam_profiles.png`.
