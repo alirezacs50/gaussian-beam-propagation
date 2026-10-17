@@ -19,8 +19,7 @@ For a Gaussian beam with waist w0, the analytical beam radius is
 Beam radius versus propagation distance. The simulation (markers) matches
 the analytical curve (line):
 
-![Beam radius vs z](Figures.png)
-
+![Beam radius vs z](figures/beam_width.png)
 Intensity profiles at z = 0, zR and 2·zR:
 
 ![Intensity profiles](figures/beam_profiles.png)
